@@ -1,0 +1,48 @@
+1.0.9
+- [New] 17 Characters
+- [New] Cursor Zoom
+- [New] AdsManager
+- [New] Admob Integration
+- [New] ChartBoost Integration
+- [New] Unity Ads Integration
+- [New] Manual Update
+
+1.0.8
+- [New] Shapes Manager
+- [New] Singleton Manager
+- [New] Improvements to Zoom Feature
+- [New] Crayon Tool
+- [New] Sparkle Tool
+- [New] 14 Stamps
+- [New] Manual Update
+
+1.0.7
+- [New] Zoom IN/OUT & Pinch Zoom 
+- [New] Web Screenshot Export/Print  
+- [New] Manual Update
+
+1.0.6
+- [New] Album Scene Slider
+- [New] Undo/Redo History
+- [New] Lion Character
+- [New] Fade Filling
+
+1.0.5
+- [New] Support Most Landscape Screens 
+- [Fix] Tool Content Click Exception
+
+1.0.4
+- [New] Paint Roller Tool
+- [New] Tool Component Optimizations
+
+1.0.3
+- [New] Update the Manual
+
+1.0.2
+- [Fix] Script Execution Order Bug
+
+1.0.1
+- [New] User Input Optimizations
+
+1.0.0
+- First release
